@@ -6,7 +6,7 @@
 # catalog-version 2.1
 Name:		texlive-epsdice
 Version:	2.1
-Release:	1
+Release:	2
 Summary:	A scalable dice "font"
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/epsdice
