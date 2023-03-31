@@ -1,6 +1,6 @@
 Name:		texlive-epsdice
 Version:	15878
-Release:	1
+Release:	2
 Summary:	A scalable dice "font"
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/epsdice
