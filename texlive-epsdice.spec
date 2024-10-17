@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	A scalable dice "font"
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/epsdice
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/epsdice
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/epsdice.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/epsdice.doc.r%{version}.tar.xz
